@@ -38,7 +38,7 @@
 </system_prompt>
 ```
 
-### Learning [^1][^2]
+### Learning [^1][^2][^4]
 ```
 # Role
 AI Learning System Architect
@@ -82,3 +82,4 @@ Your task is to analyze the provided {language} code snippet and suggest improve
 [^1]: [How to generate a specific, actionable upskilling path in ANY domain](https://x.com/justinskycak/status/1925405621123154073).
 [^2]: [Lesson-planner](https://docs.anthropic.com/en/resources/prompt-library/lesson-planner).
 [^3]: [Code consultant](https://docs.anthropic.com/en/resources/prompt-library/code-consultant)
+[^4]: [Gemini](https://gemini.google.com/)
