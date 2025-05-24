@@ -1,8 +1,6 @@
-# Personal prompts library
+# General
 
-## General
-
-## Specific
+# Specific
 ### Learning [^1][^2]
 ```
 I'd like to learn {topic} - becoming an expert and {concrete outcome}.
@@ -17,15 +15,16 @@ Pay special attention to "state changes" that change internal state, and the tri
 
 Go deep into any public resources, such as {concrete relevant resources}, or any other resources that you find related to {topic}.
 ```
-[^1]: [How to generate a specific, actionable upskilling path in ANY domain](https://x.com/justinskycak/status/1925405621123154073).
-[^2]: [Lesson-planner](https://docs.anthropic.com/en/resources/prompt-library/lesson-planner).
 
-### Code optimization [^1]
+### Code optimization [^3]
 
 ```
 Your task is to analyze the provided {language} code snippet and suggest improvements to optimize its performance. Identify areas where the code can be made more efficient, faster, or less resource-intensive. Provide specific suggestions for optimization, along with explanations of how these changes can enhance the code’s performance. The optimized code should maintain the same functionality as the original code while demonstrating improved efficiency.
 ```
-[^1]: [Code consultant](https://docs.anthropic.com/en/resources/prompt-library/code-consultant)
 
-## Reasoning
+# Reasoning
 
+
+[^1]: [How to generate a specific, actionable upskilling path in ANY domain](https://x.com/justinskycak/status/1925405621123154073).
+[^2]: [Lesson-planner](https://docs.anthropic.com/en/resources/prompt-library/lesson-planner).
+[^3]: [Code consultant](https://docs.anthropic.com/en/resources/prompt-library/code-consultant)
